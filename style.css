@@ -1,0 +1,26 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color: black;
+}
+.timer{
+    color: gray;
+}
+.cnt{
+    margin-top: 100px;
+    border: 2px solid goldenrod;
+    padding: 50px;
+    text-align: center;
+    color: gray;
+    border-radius: 20px;
+    box-shadow: 0px 0px 19px 6px;
+}
+#t{
+    border: 1px groove rgb(109, 69, 69);
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 50px;
+    background-color: rgb(44, 44, 42);
+}
+
